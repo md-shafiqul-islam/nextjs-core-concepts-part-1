@@ -1,3 +1,11 @@
+##TOPICS:
+ 📂 File & folder structure
+ 🛣️ Static, dynamic & nested routes
+ 🏗️ Nested & conditional layouts
+ 🔗 Catch-all & optional segments
+ ❌ not-found pages & loading spinners
+ ⚡ Middleware
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
